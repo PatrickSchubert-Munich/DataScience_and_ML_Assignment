@@ -12,4 +12,5 @@ dependencies = [
     "notebook-as-pdf>=0.5.0",
     "pandas>=2.3.3",
     "scikit-learn>=1.7.2",
+    "scipy>=1.15.3",
 ]
